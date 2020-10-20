@@ -1,6 +1,6 @@
 ## Hi, I'm Enes 👋
 I'm a software engineering student interested in especially Java related techs and [competitive programming](https://github.com/enesoral/Competitive-Programming).<br> 
-Also working as a software developer intern at [Kod Gemisi](https://kodgemisi.com/).
+Also working as a Software Developer at [Kod Gemisi](https://kodgemisi.com/).
 
 <a href="https://www.linkedin.com/in/enesoral/" target="_blank">
     <img src="https://github.com/enesoral/enesoral/blob/master/resources/linkedin.svg" alt="linkedin/enesoral" width="22px">
