@@ -2,19 +2,22 @@
 I'm a software engineering student interested in especially Java related techs and [competitive programming](https://github.com/enesoral/Competitive-Programming).<br> 
 
 <a href="https://www.linkedin.com/in/enesoral/" target="_blank">
-    <img src="https://github.com/enesoral/enesoral/blob/master/resources/linkedin.svg" alt="linkedin/enesoral" width="22px">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin/enesoral" height=20>
 </a>
-&emsp;<a href="https://medium.com/@oralenes" target="_blank">
-    <img src="https://github.com/enesoral/enesoral/blob/master/resources/medium.svg" alt="medium/@oralenes" width="22px">
+ <a href="https://medium.com/@oralenes" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" alt="medium/@oralenes" height=20>
 </a>
-&emsp;<a href="https://www.hackerrank.com/enesoral" target="_blank">
-    <img src="https://github.com/enesoral/enesoral/blob/master/resources/hackerrank.svg" alt="medium/@oralenes" width="22px">
+ <a href="https://stackoverflow.com/users/12458332/enesoral" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="stackoverflow/enesoral" height=20>
 </a>
-&emsp;<a href="https://twitter.com/_enesoral" target="_blank">
-    <img src="https://github.com/enesoral/enesoral/blob/master/resources/twitter.svg" alt="twitter/_enesoral" width="22px">
+ <a href="https://www.hackerrank.com/enesoral" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="hackerrank/enesoral" height=20>
+</a>
+ <a href="https://twitter.com/_enesoral" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter/_enesoral" height=20>
 </a>
 
-<img src="https://github.com/enesoral/enesoral/blob/master/resources/java.gif" align="right" alt="java" width=200 height=200>
+<img src="https://user-images.githubusercontent.com/53643180/103628779-86a6fa00-4f50-11eb-807e-c4ed88be4777.png" align="right" alt="java" width=160 height=250>
 
 ### What I'm use? 🛠  
 I generally use Spring related techs for back-end development. <br>
