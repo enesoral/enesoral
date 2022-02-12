@@ -1,5 +1,6 @@
 ## Hi, I'm Enes 👋
-I'm a software engineering student interested in especially Java related techs and [competitive programming](https://github.com/enesoral/Competitive-Programming).<br> 
+Currently working as a Software Engineer @sahibinden.com<br> 
+Trying to be a T-shaped person and lifetime learner.<br>
 
 <a href="https://www.linkedin.com/in/enesoral/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin/enesoral" height=20>
@@ -20,7 +21,7 @@ I'm a software engineering student interested in especially Java related techs a
 <img src="https://user-images.githubusercontent.com/53643180/103628779-86a6fa00-4f50-11eb-807e-c4ed88be4777.png" align="right" alt="java" width=160 height=250>
 
 ### What I'm use? 🛠  
-I generally use Spring related techs for back-end development. <br>
+I generally use Java-related techs for back-end development. <br>
 Also I'm passionate about learning new technologies.
 
 <a href="https://stackshare.io/enesoral/personal-stack">
