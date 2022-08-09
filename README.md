@@ -1,11 +1,11 @@
 ## Hi, I'm Enes 👋
-Currently working as a Software Engineer @sahibinden.com<br> 
+Currently working as a Software Engineer @Trendyol Group<br> 
 Trying to be a T-shaped person and lifetime learner.<br>
 
 <a href="https://www.linkedin.com/in/enesoral/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin/enesoral" height=20>
 </a>
- <a href="https://medium.com/@oralenes" target="_blank">
+ <a href="https://enes-oral.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" alt="medium/@oralenes" height=20>
 </a>
  <a href="https://stackoverflow.com/users/12458332/enesoral" target="_blank">
